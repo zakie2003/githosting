@@ -129,7 +129,7 @@ body{
 .col h1{
   margin: 30px;
   color: black;
-  font-size: 30px;
+  font-size: 45px;
 }
 .img2{ 
   position: relative;
@@ -441,8 +441,8 @@ background-color: black;
   position: relative;
   margin-top: 20px;
   margin-right: 22px;
-  height: 275px;
-  width: 280px;
+  height: 300px;
+  width: 310px;
   margin-bottom: 66px;
 }
 
