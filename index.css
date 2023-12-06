@@ -47,8 +47,10 @@ body{
     
   }
   .btn1:hover{
+    color:white;
     background-color: black;
   }
+
   .slide_op{
     position: relative;
     list-style: none;
