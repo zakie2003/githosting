@@ -1,7 +1,7 @@
 *{
   padding: 0;
   margin: 0;
-  font-family:'Poppins';
+  font-family:'Silkscreen';
   scroll-behavior: smooth;
 
 }
@@ -280,7 +280,7 @@ background-color: black;
 }
 .hidden{
   opacity: 0;
-  transition: 1.5s all;
+  transition: 1s all;
   
 }
 .show{
@@ -288,35 +288,35 @@ background-color: black;
 }
 .hidden1{
   width:0;
-  transition: 1.5s all;
+  transition: 1s all;
 }
 .show1{
   width: 70%;
 }
 .hidden2{
   width: 0;
-  transition: 1.5s all;
+  transition: 1s all;
 }
 .show2{
   width: 90%;
 }
 .hidden3{
   width: 0;
-  transition: 2s all;
+  transition: 1s all;
 }
 .show3{
   width:95%
 }
 .hidden4{
   width: 0;
-  transition: 2s all;
+  transition: 1s all;
 }
 .show4{
   width: 90%;
 }
 .hidden5{
   width: 0;
-  transition: 2s all;
+  transition: 1s all;
 }
 .show5{
   width: 50%;
