@@ -680,3 +680,28 @@ background-color: black;
 .d69{
     display:none;
 }
+
+
+.hover-underline-animation {
+  display: inline-block;
+  position: relative;
+  color: #2B2B2B
+}
+
+.hover-underline-animation:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 5px;
+  bottom: 0;
+  left: 0;
+  background-color: #2B2B2B;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
