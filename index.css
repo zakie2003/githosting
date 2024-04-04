@@ -441,7 +441,7 @@ background-color: black;
   margin-bottom: 66px;
 }
 
-@media screen and (max-width:350px){
+@media screen and (max-width:420px){
   .my_pic
   {
     position: relative;
