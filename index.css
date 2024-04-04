@@ -441,7 +441,7 @@ background-color: black;
   margin-bottom: 66px;
 }
 
-@media screen and (max-width:420px){
+@media screen and (max-width:350px){
   .my_pic
   {
     position: relative;
@@ -464,7 +464,7 @@ background-color: black;
   font-size: 45px;
 }
 
-@media screen and (max-width:350px){
+@media screen and (max-width:420px){
   .col h1
   {
     font-size: x-large;
